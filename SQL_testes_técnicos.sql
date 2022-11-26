@@ -134,12 +134,6 @@ where dep_name is not null
 )
 
 
-
-
-
-
-
-
 -- 8) Altere o relatorio para imprimir M quando for Male ou F quando for Female
 
 select emp.emp_name,
